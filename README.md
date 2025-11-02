@@ -1,7 +1,8 @@
 # Power-BI
 Dashbord
 
-<img width="1122" height="634" alt="image" src="https://github.com/user-attachments/assets/fc825481-022a-498d-9211-018960cc1cab" />
+<img width="1124" height="614" alt="image" src="https://github.com/user-attachments/assets/ef04aa9e-71dd-4c98-a7ae-628d1d347940" />
+
 
 
 
